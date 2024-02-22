@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px none;
+    margin: 30px;
+}
+
+.counterNumber {
+    font-size: 50px;
+    color: pink;
+}
+
+#btn btn-danger {
+    font-size: 50px;
+}
+
+#btn btn-primary {
+    font-size: 50px;
+}
